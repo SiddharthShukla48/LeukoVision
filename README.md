@@ -1,4 +1,4 @@
-**## LeukoVision**
+##                                                             LeukoVision
 
 ## Inspiration
 We were inspired to create an Acute Lymphoblastic Leukemia (ALL) classifier using deep learning with ensemble learning because of the urgent need for early and precise cancer detection. Leukemia, particularly ALL, is a serious threat to children and teenagers as it involves the rapid growth of immature white blood cells, leading to severe health issues and higher mortality. Traditional methods of diagnosing ALL are slow, complex, and often prone to human error, making them expensive and less reliable. The success of deep learning in medical research presented a unique chance to improve the diagnostic process.
