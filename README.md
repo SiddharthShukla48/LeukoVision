@@ -26,6 +26,10 @@ https://youtu.be/7Y-m7DSSyOE?si=7sItR_DOMlxELY3q
 https://www.kaggle.com/datasets/andrewmvd/leukemia-classification/data
 
 ## Trained Models --
+Xception -- https://www.kaggle.com/models/siddharthshukla48/hackathon_xception
+InceptionResNetV2 -- https://www.kaggle.com/models/siddharthshukla48/hackathon_inceptionresnetv2
+InceptionV3 -- https://www.kaggle.com/models/siddharthshukla48/hackathon_inceptionv3
+
 
 
 
