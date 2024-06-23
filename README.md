@@ -28,8 +28,6 @@ https://www.kaggle.com/datasets/andrewmvd/leukemia-classification/data
 ## Trained Models --
 Xception -- https://www.kaggle.com/models/siddharthshukla48/hackathon_xception
 
-![Alt text](Python_Notebooks/WhatsApp Image 2024-06-23 at 11.18.15.jpeg)
-
 InceptionResNetV2 -- https://www.kaggle.com/models/siddharthshukla48/hackathon_inceptionresnetv2
 
 InceptionV3 -- https://www.kaggle.com/models/siddharthshukla48/hackathon_inceptionv3
